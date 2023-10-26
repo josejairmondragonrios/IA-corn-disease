@@ -1,1 +1,1 @@
-# corn-disease
+# IA-corn-disease
